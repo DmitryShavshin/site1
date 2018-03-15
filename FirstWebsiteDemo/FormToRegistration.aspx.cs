@@ -114,18 +114,18 @@ namespace FirstWebsiteDemo
         private void updateUser()
         {
             string errorMessageEmail = "", errorMessageLogin = "";
-            bool isAbsent = true;
+            bool isAbsent = false;
             for (int i = 0; i < users.Count; i++)
             {
-                if (user.Email.Equals(email))
+                if (user.Email.Equals(email) && !users[i].Email.Equals(email))
                 {
-                    isAbsent = false;
+                    isAbsent = true;
                     errorMessageEmail = "Emaile is falce";
                     break;
                 }
-                if (user.Login.Equals(login))
+                if (user.Login.Equals(login) && !users[i].Login.Equals(login))
                 {
-                    isAbsent = false;
+                    isAbsent = true;
                     errorMessageLogin = "Login is falce";
                     break;
                 }
@@ -135,7 +135,7 @@ namespace FirstWebsiteDemo
                 overwriteSession();
                 Session["user"] = user;
                 DAO.updateUser(user.Id, login, pass, gender, year, day, month, name, secondName, surename, email, phone, user.Role);
-                Server.Transfer("FormToPageCreate.aspx");
+                Server.Transfer("FormToMainPage.aspx");
             }
             else
             {
