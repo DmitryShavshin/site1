@@ -1,0 +1,27 @@
+﻿Without key buzzwords such as 'RGB' and 'gaming', MSI is looking to target AMD users on a strict budget with the B350 Tomahawk. Compared to X370, the B350 boards lack multi-card graphics support, but at $85 the B350 Tomahawk looks to have a couple of tricks up its sleeve.
+
+The MSI B350 Tomahawk Review
+From first glance, the MSI B350 Tomahawk combines a very unique styling of shiny grey and black PCB, with a complimented set of small, but adequate, power delivery heatsinks. The rather thin PCH heat sink resembles a shield, and looks pretty fitting when compared to the rest of the boards styling. The B350 Tomahawk from MSI follows what seems to be a common trend for MSI in the bare components department, and uses components regularly found in boards of this price range. This includes the use of a Richtek RT8894A PWM controller running in 4+2 phase mode, with a compliment of averagely suited NIKOS MOSFETs used.
+
+To keep costs down, the MSI B350 Tomahawk uses the budget oriented controllers, such as the Realtek ALC892 audio codec and a Realtek 8111H network controller. Onboard video includes a HDMI 1.4 port, a DVI-D port and VGA. Users with an APU expecting a DisplayPort will have to look at pricier motherboard options.
+While the B350 Tomahawk does technically support 2-way CrossFire, there is only a single PCIe 3.0 x16 slot featured with a second slot which actually runs at PCIe 2.0 x4; there are a further two PCIe 2.0 x1 slots as well as two PCI slots. Visually, the B350 Tomahawk features LED lighting due to four banks of red LEDs. There is  also an LED RGB header.
+
+Buy MSI B350 Tomahawk on Amazon.com
+Storage comes via four SATA 6Gb/s ports, two of which are vertical on the board, and a single M.2 port. There are also four USB 3.0 ports on the rear (three Type-A, one Type-C), four USB 3.0 ports capable from the internal headers, two USB 2.0 ports on the rear, and two USB 2.0 headers. There is a single USB 3.1 Type-C featured, but further ports have been omitted thanks to a limitation on the B350 chipset. There is the odd scenario of MSI not including any USB 3.1 (10 Gbps) ports on the motherboard, especially as the chipset supports them.
+
+It is clear that MSI's focus is system builders and users looking for a wallet-friendly low cost option, but without sacrificing on component quality and overall performance. Throughout our testing, we saw very comparable results within the testing against an array of X370 options. For a very basic board featuring a little LED backlighting, power consumption seems in line with similar boards on paper, and when under load, the results are favorable for MSI due to the limited features. That being said, the MSI B350 was drawing more power than the other B350 we have tested.
+
+Performance on the B350 Tomahawk was a relatively stable. Our performance graphs shows that the B350 chipset is certainly on par with the X370 chipset. The B350 target market is more cost sensitive, so using mid-range Realtek hardware will be a standard, but this is something that this price segment is certainly used to. The MSI B350 Tomahawk takes a very solid place in the budget motherboard segment, along with similar priced ATX B350 motherboards such as the Gigabyte AB350-Gaming and the ASRock AB350 Gaming K4.
+To read specifically about the X370/B350 chip/platform and the specifications therein, our deep dive into what it is can be found at this link.
+
+Ryzen 7 1700 Overclocking
+Users on a budget who wanted to squeeze a little extra performance from their Ryzen processors will be pleased to know the MSI B350 Tomahawk comes with a one-click OC button, but only through software. A disadvantage to this feature is usually over-volting, to ensure the processor is running with enough headroom for stability. Speaking of over-volting, practically all of the X370/B350 motherboards tested thus far have over-volted, even when manually overclocking; this is often trial and error, and although a little bit of extra voltage (0.1-0.3 V) is unlikely to hurt in the grand scheme of things, extra voltage does account for an increase in thermals from the chip, which leads to a rise in power consumption.
+AMD's best Ryzen 7 processors can overclock to 4.2 GHz on ambient cooling, while the Ryzen 7 1700 that we use in our testing can go towards 4.0 GHz quite happily at around 1.375 volts. 
+
+Methodology
+Our standard overclocking methodology is as follows. We select the automatic overclock options and test for stability with POV-Ray and OCCT to simulate high-end workloads. These stability tests aim to catch any immediate causes for memory or CPU errors.
+
+For manual overclocks, based on the information gathered from previous testing, starts off at a nominal voltage and CPU multiplier, and the multiplier is increased until the stability tests are failed. The CPU voltage is increased gradually until the stability tests are passed, and the process repeated until the motherboard reduces the multiplier automatically (due to safety protocol) or the CPU temperature reaches a stupidly high level (100ºC+). Our test bed is not in a case, which should push overclocks higher with fresher (cooler) air.
+
+Overclocking Results
+The Ryzen 7 1700 processor we are using has a 3.0 GHz base core clock speed and a 3.7 GHz turbo, and is rated at 65 W TDP (defined at base frequency). When overclocked to 3.9 GHz with 1.375 volts, the overall power consumption taken at the wall was pushing around 196 W at peak, which is a 63 W increase on the stock performance.

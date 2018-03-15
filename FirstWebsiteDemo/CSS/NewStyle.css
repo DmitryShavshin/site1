@@ -1,0 +1,26 @@
+﻿.odd{
+      background-color: #5e5b5b;
+      color: #fff;
+      margin: 0 auto;
+      padding-left: 10px;
+}
+.even{
+        background-color:#2c2b2b;
+        color: #fff;
+        margin: 0 auto;
+        padding-left: 10px;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.conteiner{
+    padding: 0;
+    margin: 0 auto;
+    background-color: rgba(55, 52, 52, 0.7);
+}
+.img1{
+    margin-right: 10px;
+    padding: 0;
+    float: left;
+}

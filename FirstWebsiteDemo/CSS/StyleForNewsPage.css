@@ -1,0 +1,26 @@
+﻿
+body {
+    background: url(../img/background.jpg) center center no-repeat;
+    min-height: 100%;
+    min-width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-repeat: repeat;
+}
+.content{
+    background: rgba(79, 76, 76, 0.8);
+    margin: 0 10% 0 10%;
+    width: 80%;
+    position: absolute;
+    top: 0;
+    min-height: 100%;
+}
+.conteiner{
+     margin-top: 20px;
+     padding: 10px;
+     color: #fff;
+}
+.img1{
+    margin-right: 10px;  
+    float: left;
+}

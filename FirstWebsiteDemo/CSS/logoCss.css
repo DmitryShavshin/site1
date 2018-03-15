@@ -1,0 +1,28 @@
+﻿@keyframes logoMoveDovnUp {
+from{
+    top: 50px;
+}to {
+    top: 10px;
+    }
+}
+        
+@keyframes logoMoveLeftRight {
+from{
+    left: 0;
+}to {
+    left: 20px;
+    }
+}
+.logo{          
+    position: fixed;
+    top: 30px;
+    left: 10px;
+    animation-name: logoMoveDovnUp;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+img {
+    height: 150px;
+    width: 120px;  
+}

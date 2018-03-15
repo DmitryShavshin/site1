@@ -1,0 +1,253 @@
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.xml
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.xml
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+Z:\Progr\Новая папка\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.dll
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.pdb
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.pdb
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.pdb
+D:\DimaWorkSpace\Window\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.pdb
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.pdb
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.pdb
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.xml
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+Z:\Progr\Web\BackAnd\First_2\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.pdb
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.pdb
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.xml
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+D:\DimaWorkSpace\Window\First_2\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.pdb
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.pdb
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+D:\DimaWorkSpace\Window\Новая папка (2)\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\ApplicationInsights.config
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\csc.exe
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\vbc.exe
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll.config
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.pdb
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\DbLinq.MySql.pdb
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.Web.xml
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.csprojResolveAssemblyReference.cache
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.dll
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\obj\Debug\FirstWebsiteDemo.pdb
+Z:\Progr\Web\BackAnd\ASP\FirstWebsiteDemo\FirstWebsiteDemo\bin\MySql.Data.xml
